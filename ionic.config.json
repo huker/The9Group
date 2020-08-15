@@ -1,0 +1,7 @@
+{
+  "name": "The9Group",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
